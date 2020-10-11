@@ -8,4 +8,3 @@ This edit is second editing.
 
 # this text was added after I clone to notebook
 # this text was added after jushin90 deleted from collaborator
-
